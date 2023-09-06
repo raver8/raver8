@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor K.
-- 👀 I’m interested in IoT, Enterprise, and Energy, Machine Learning.
-- 💞️ I’m looking to collaborate on clean tech initiatives.
+- 👀 I have worked on IoT, Enterprise, and Energy, Machine Learning Initiatives
+- 💞️ I’m looking to collaborate on clean tech, separation chemistryinitiatives.
 - 📫 How to reach me @raver8
 
