@@ -10,7 +10,7 @@
 * Former Research Scientist @ Fordham University — SAFE database & ML pipelines for rare earth chemistry
 * Visiting Researcher @ Los Alamos National Laboratory (Theoretical Division) — LLM pretraining for molecular discovery
 * Former Adjunct Professor @ St. Thomas University — Big Data Analytics & Data Warehousing
-* 📍 Sunrise, FL | B.A. Chemistry & M.S. Management & Systems @ New York University
+* B.A. Chemistry & M.S. Management & Systems @ New York University
 * [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0002-9596-9919](https://orcid.org/0000-0002-9596-9919)
 
 ## Interests
