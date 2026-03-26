@@ -67,4 +67,4 @@ End-to-end deep learning workflow for chemical property prediction, benchmarked 
 
 ---
 
-📫 victor.karamalis@nyu.edu | 🔗 [Credly](https://bit.ly/VKaramalis) | 💻 [GitHub](https://github.com/raver8)
+📫 victor.karamalis@nyu.edu | 🔗 [Credly](https://bit.ly/VKaramalis) | 💻 [GitHub](https://raver8.github.io)
