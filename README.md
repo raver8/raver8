@@ -12,7 +12,8 @@
 * Former Adjunct Professor @ St. Thomas University — Big Data Analytics & Data Warehousing
 * B.A. Chemistry & M.S. Management & Systems @ New York University
 * [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0002-9596-9919](https://orcid.org/0000-0002-9596-9919)
-
+* [Google Scholar}(https://scholar.google.com/citations?user=yzXE1LAAAAAJ&hl)
+  
 ## Interests
 
 * AI/ML for computational chemical discovery 🧪
@@ -20,7 +21,7 @@
 * LLM fine-tuning and domain-specific model development 🤖
 * High-performance computing on NVIDIA GPU infrastructure (H100, NERSC) 🖥
 * Open-source scientific database development 💾
-* Bridging ML techniques with experimental chemistry workflows 🔗
+* Bridging ML techniques with experimental chemistry workflows 
 * Nanomaterial design and radiation shielding compounds 🛡
 
 ## Highlights
