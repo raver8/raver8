@@ -12,7 +12,7 @@
 * Former Adjunct Professor @ St. Thomas University — Big Data Analytics & Data Warehousing
 * B.A. Chemistry & M.S. Management & Systems @ New York University
 * [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0002-9596-9919](https://orcid.org/0000-0002-9596-9919)
-* [Google Scholar](https://scholar.google.com/citations?user=yzXE1LAAAAAJ&hl)
+* [!:graduation_cap:][Google Scholar(https://scholar.google.com/citations?user=yzXE1LAAAAAJ&hl)]
   
 ## Interests
 
