@@ -6,7 +6,7 @@
 
 ## `whoami`
 
-* Currently Researcher @ Lattice Studio Labs LLC — AI-driven materials discovery & characterization
+* Currently Researcher @ Lattice Studio Labs INC — AI-driven materials discovery & characterization
 * Former Research Scientist @ Fordham University — SAFE database & ML pipelines for rare earth chemistry
 * Visiting Researcher @ Los Alamos National Laboratory (Theoretical Division) — LLM pretraining for molecular discovery
 * Former Adjunct Professor @ St. Thomas University — Big Data Analytics & Data Warehousing
